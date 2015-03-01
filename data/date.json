@@ -1,6 +1,6 @@
-[
+data[
   {
-    "Date":"(blank)",
+    "thedate":"(blank)",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -11,7 +11,7 @@
     "Grand Total":""
   },
   {
-    "Date":"1/1/13",
+    "thedate":"01/01/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -22,7 +22,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/1/14",
+    "thedate":"01/01/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -33,7 +33,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/10/13",
+    "thedate":"01/10/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -44,7 +44,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/10/14",
+    "thedate":"01/10/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -55,7 +55,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/11/13",
+    "thedate":"01/11/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -66,7 +66,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/11/14",
+    "thedate":"01/11/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -77,7 +77,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/12/13",
+    "thedate":"01/12/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -88,7 +88,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/13/14",
+    "thedate":"01/2013/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -99,7 +99,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/14/13",
+    "thedate":"01/2014/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -110,7 +110,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/14/14",
+    "thedate":"01/2014/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -121,7 +121,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/15/13",
+    "thedate":"01/15/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -132,7 +132,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/15/14",
+    "thedate":"01/15/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -143,7 +143,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"1/16/14",
+    "thedate":"01/16/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -154,7 +154,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"1/17/13",
+    "thedate":"01/17/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -165,7 +165,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/17/14",
+    "thedate":"01/17/2014",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -176,7 +176,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"1/2/13",
+    "thedate":"01/02/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -187,7 +187,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/2/14",
+    "thedate":"01/02/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -198,7 +198,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/20/13",
+    "thedate":"01/20/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -209,7 +209,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/20/14",
+    "thedate":"01/20/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -220,7 +220,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/21/13",
+    "thedate":"01/21/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -231,7 +231,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/21/14",
+    "thedate":"01/21/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -242,7 +242,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/22/13",
+    "thedate":"01/22/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -253,7 +253,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/22/14",
+    "thedate":"01/22/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -264,7 +264,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/23/13",
+    "thedate":"01/23/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -275,7 +275,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/23/14",
+    "thedate":"01/23/2014",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -286,7 +286,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"1/24/13",
+    "thedate":"01/24/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -297,7 +297,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/24/14",
+    "thedate":"01/24/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -308,7 +308,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/25/13",
+    "thedate":"01/25/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -319,7 +319,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"1/25/14",
+    "thedate":"01/25/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -330,7 +330,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/26/13",
+    "thedate":"01/26/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -341,7 +341,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/26/14",
+    "thedate":"01/26/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -352,7 +352,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/27/13",
+    "thedate":"01/27/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -363,7 +363,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/27/14",
+    "thedate":"01/27/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -374,7 +374,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/28/13",
+    "thedate":"01/28/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -385,7 +385,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/28/14",
+    "thedate":"01/28/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -396,7 +396,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/29/13",
+    "thedate":"01/29/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -407,7 +407,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/29/14",
+    "thedate":"01/29/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -418,7 +418,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/3/14",
+    "thedate":"01/03/2014",
     "Bronx":"3",
     "Brooklyn":"",
     "Citywide":"",
@@ -429,7 +429,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"1/30/13",
+    "thedate":"01/30/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -440,7 +440,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/30/14",
+    "thedate":"01/30/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -451,7 +451,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/31/13",
+    "thedate":"01/31/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -462,7 +462,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/31/14",
+    "thedate":"01/31/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -473,7 +473,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/4/13",
+    "thedate":"01/04/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -484,7 +484,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/4/14",
+    "thedate":"01/04/2014",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -495,7 +495,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"1/5/13",
+    "thedate":"01/05/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -506,7 +506,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/5/14",
+    "thedate":"01/05/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -517,7 +517,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"1/6/13",
+    "thedate":"01/06/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -528,7 +528,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/6/14",
+    "thedate":"01/06/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -539,7 +539,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"1/7/13",
+    "thedate":"01/07/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -550,7 +550,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"1/7/14",
+    "thedate":"01/07/2014",
     "Bronx":"2",
     "Brooklyn":"3",
     "Citywide":"",
@@ -561,7 +561,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"1/8/13",
+    "thedate":"01/08/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -572,7 +572,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/8/14",
+    "thedate":"01/08/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -583,7 +583,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"1/9/13",
+    "thedate":"01/09/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -594,7 +594,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"1/9/14",
+    "thedate":"01/09/2014",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -605,7 +605,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"10/1/13",
+    "thedate":"10/01/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -616,7 +616,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/1/14",
+    "thedate":"10/01/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -627,7 +627,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"10/10/13",
+    "thedate":"10/10/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -638,7 +638,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/10/14",
+    "thedate":"10/10/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -649,7 +649,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/11/13",
+    "thedate":"10/11/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -660,7 +660,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"10/12/13",
+    "thedate":"10/12/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -671,7 +671,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/12/14",
+    "thedate":"10/12/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -682,7 +682,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/13/13",
+    "thedate":"10/2013/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -693,7 +693,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/13/14",
+    "thedate":"10/2013/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -704,7 +704,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"10/14/14",
+    "thedate":"10/2014/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -715,7 +715,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/15/13",
+    "thedate":"10/15/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -726,7 +726,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/15/14",
+    "thedate":"10/15/2014",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -737,7 +737,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/16/13",
+    "thedate":"10/16/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -748,7 +748,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/16/14",
+    "thedate":"10/16/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -759,7 +759,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/17/14",
+    "thedate":"10/17/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -770,7 +770,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/18/13",
+    "thedate":"10/18/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"1",
@@ -781,7 +781,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/18/14",
+    "thedate":"10/18/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -792,7 +792,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/2/13",
+    "thedate":"10/02/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -803,7 +803,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/20/13",
+    "thedate":"10/20/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -814,7 +814,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/20/14",
+    "thedate":"10/20/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -825,7 +825,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/21/13",
+    "thedate":"10/21/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -836,7 +836,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/21/14",
+    "thedate":"10/21/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -847,7 +847,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"10/22/13",
+    "thedate":"10/22/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -858,7 +858,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/22/14",
+    "thedate":"10/22/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -869,7 +869,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/23/13",
+    "thedate":"10/23/2013",
     "Bronx":"2",
     "Brooklyn":"1",
     "Citywide":"",
@@ -880,7 +880,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/23/14",
+    "thedate":"10/23/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -891,7 +891,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/24/13",
+    "thedate":"10/24/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -902,7 +902,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/24/14",
+    "thedate":"10/24/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -913,7 +913,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/25/13",
+    "thedate":"10/25/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -924,7 +924,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"10/25/14",
+    "thedate":"10/25/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -935,7 +935,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/26/14",
+    "thedate":"10/26/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -946,7 +946,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/27/13",
+    "thedate":"10/27/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -957,7 +957,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/27/14",
+    "thedate":"10/27/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -968,7 +968,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/28/13",
+    "thedate":"10/28/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -979,7 +979,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/28/14",
+    "thedate":"10/28/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -990,7 +990,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/29/13",
+    "thedate":"10/29/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1001,7 +1001,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/29/14",
+    "thedate":"10/29/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1012,7 +1012,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"10/3/13",
+    "thedate":"10/03/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1023,7 +1023,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/3/14",
+    "thedate":"10/03/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1034,7 +1034,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/30/13",
+    "thedate":"10/30/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1045,7 +1045,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/30/14",
+    "thedate":"10/30/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1056,7 +1056,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/31/13",
+    "thedate":"10/31/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1067,7 +1067,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"10/31/14",
+    "thedate":"10/31/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1078,7 +1078,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/4/13",
+    "thedate":"10/04/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1089,7 +1089,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/4/14",
+    "thedate":"10/04/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1100,7 +1100,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/6/13",
+    "thedate":"10/06/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1111,7 +1111,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/6/14",
+    "thedate":"10/06/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1122,7 +1122,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"10/7/13",
+    "thedate":"10/07/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1133,7 +1133,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"10/7/14",
+    "thedate":"10/07/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1144,7 +1144,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"10/8/13",
+    "thedate":"10/08/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1155,7 +1155,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"10/8/14",
+    "thedate":"10/08/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1166,7 +1166,7 @@
     "Grand Total":"8"
   },
   {
-    "Date":"10/9/14",
+    "thedate":"10/09/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1177,7 +1177,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/1/13",
+    "thedate":"11/01/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1188,7 +1188,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/1/14",
+    "thedate":"11/01/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1199,7 +1199,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/10/13",
+    "thedate":"11/10/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1210,7 +1210,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/10/14",
+    "thedate":"11/10/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1221,7 +1221,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/11/13",
+    "thedate":"11/11/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1232,7 +1232,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/11/14",
+    "thedate":"11/11/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1243,7 +1243,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/12/13",
+    "thedate":"11/12/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1254,7 +1254,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/12/14",
+    "thedate":"11/12/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1265,7 +1265,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/13/13",
+    "thedate":"11/2013/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1276,7 +1276,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"11/13/14",
+    "thedate":"11/2013/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1287,7 +1287,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/14/13",
+    "thedate":"11/2014/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1298,7 +1298,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/14/14",
+    "thedate":"11/2014/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1309,7 +1309,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/15/13",
+    "thedate":"11/15/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -1320,7 +1320,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"11/15/14",
+    "thedate":"11/15/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1331,7 +1331,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/16/13",
+    "thedate":"11/16/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1342,7 +1342,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/17/14",
+    "thedate":"11/17/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1353,7 +1353,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/18/13",
+    "thedate":"11/18/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1364,7 +1364,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/18/14",
+    "thedate":"11/18/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1375,7 +1375,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/19/13",
+    "thedate":"11/19/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -1386,7 +1386,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"11/19/14",
+    "thedate":"11/19/2014",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -1397,7 +1397,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"11/2/13",
+    "thedate":"11/02/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1408,7 +1408,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/2/14",
+    "thedate":"11/02/2014",
     "Bronx":"",
     "Brooklyn":"4",
     "Citywide":"",
@@ -1419,7 +1419,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"11/20/13",
+    "thedate":"11/20/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1430,7 +1430,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/20/14",
+    "thedate":"11/20/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1441,7 +1441,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"11/21/13",
+    "thedate":"11/21/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"1",
@@ -1452,7 +1452,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"11/21/14",
+    "thedate":"11/21/2014",
     "Bronx":"3",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1463,7 +1463,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"11/22/13",
+    "thedate":"11/22/2013",
     "Bronx":"",
     "Brooklyn":"3",
     "Citywide":"",
@@ -1474,7 +1474,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/22/14",
+    "thedate":"11/22/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1485,7 +1485,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"11/23/13",
+    "thedate":"11/23/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1496,7 +1496,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/24/13",
+    "thedate":"11/24/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -1507,7 +1507,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"11/24/14",
+    "thedate":"11/24/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1518,7 +1518,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"11/25/13",
+    "thedate":"11/25/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1529,7 +1529,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/25/14",
+    "thedate":"11/25/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1540,7 +1540,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"11/26/13",
+    "thedate":"11/26/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1551,7 +1551,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/27/13",
+    "thedate":"11/27/2013",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -1562,7 +1562,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/27/14",
+    "thedate":"11/27/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1573,7 +1573,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/28/13",
+    "thedate":"11/28/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1584,7 +1584,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/28/14",
+    "thedate":"11/28/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1595,7 +1595,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/29/13",
+    "thedate":"11/29/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1606,7 +1606,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/29/14",
+    "thedate":"11/29/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1617,7 +1617,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/3/13",
+    "thedate":"11/03/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1628,7 +1628,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/3/14",
+    "thedate":"11/03/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1639,7 +1639,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/30/14",
+    "thedate":"11/30/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1650,7 +1650,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/4/13",
+    "thedate":"11/04/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1661,7 +1661,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/4/14",
+    "thedate":"11/04/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1672,7 +1672,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/5/13",
+    "thedate":"11/05/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1683,7 +1683,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/5/14",
+    "thedate":"11/05/2014",
     "Bronx":"2",
     "Brooklyn":"2",
     "Citywide":"",
@@ -1694,7 +1694,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"11/6/13",
+    "thedate":"11/06/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1705,7 +1705,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"11/6/14",
+    "thedate":"11/06/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1716,7 +1716,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"11/7/13",
+    "thedate":"11/07/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1727,7 +1727,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/7/14",
+    "thedate":"11/07/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1738,7 +1738,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/8/13",
+    "thedate":"11/08/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -1749,7 +1749,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"11/9/13",
+    "thedate":"11/09/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1760,7 +1760,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"11/9/14",
+    "thedate":"11/09/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1771,7 +1771,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/1/13",
+    "thedate":"12/01/2013",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -1782,7 +1782,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/10/13",
+    "thedate":"12/10/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1793,7 +1793,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/10/14",
+    "thedate":"12/10/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1804,7 +1804,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"12/11/13",
+    "thedate":"12/11/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1815,7 +1815,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/11/14",
+    "thedate":"12/11/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1826,7 +1826,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/12/13",
+    "thedate":"12/12/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1837,7 +1837,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/12/14",
+    "thedate":"12/12/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -1848,7 +1848,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"12/13/13",
+    "thedate":"12/2013/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1859,7 +1859,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"12/13/14",
+    "thedate":"12/2013/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1870,7 +1870,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/14/13",
+    "thedate":"12/2014/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1881,7 +1881,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/14/14",
+    "thedate":"12/2014/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1892,7 +1892,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/15/13",
+    "thedate":"12/15/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1903,7 +1903,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/15/14",
+    "thedate":"12/15/2014",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -1914,7 +1914,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"12/16/13",
+    "thedate":"12/16/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -1925,7 +1925,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/16/14",
+    "thedate":"12/16/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1936,7 +1936,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/17/13",
+    "thedate":"12/17/2013",
     "Bronx":"",
     "Brooklyn":"4",
     "Citywide":"",
@@ -1947,7 +1947,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"12/17/14",
+    "thedate":"12/17/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -1958,7 +1958,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/18/13",
+    "thedate":"12/18/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1969,7 +1969,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"12/18/14",
+    "thedate":"12/18/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1980,7 +1980,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"12/19/13",
+    "thedate":"12/19/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -1991,7 +1991,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"12/19/14",
+    "thedate":"12/19/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2002,7 +2002,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/2/13",
+    "thedate":"12/02/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2013,7 +2013,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/2/14",
+    "thedate":"12/02/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2024,7 +2024,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/20/13",
+    "thedate":"12/20/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2035,7 +2035,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"12/20/14",
+    "thedate":"12/20/2014",
     "Bronx":"",
     "Brooklyn":"3",
     "Citywide":"",
@@ -2046,7 +2046,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/21/13",
+    "thedate":"12/21/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2057,7 +2057,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/21/14",
+    "thedate":"12/21/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2068,7 +2068,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/22/13",
+    "thedate":"12/22/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2079,7 +2079,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/23/13",
+    "thedate":"12/23/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2090,7 +2090,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/23/14",
+    "thedate":"12/23/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -2101,7 +2101,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"12/24/14",
+    "thedate":"12/24/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2112,7 +2112,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/25/13",
+    "thedate":"12/25/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -2123,7 +2123,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/25/14",
+    "thedate":"12/25/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2134,7 +2134,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/26/13",
+    "thedate":"12/26/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2145,7 +2145,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/26/14",
+    "thedate":"12/26/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2156,7 +2156,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/27/13",
+    "thedate":"12/27/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2167,7 +2167,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/29/13",
+    "thedate":"12/29/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2178,7 +2178,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/3/13",
+    "thedate":"12/03/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"1",
@@ -2189,7 +2189,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/3/14",
+    "thedate":"12/03/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"1",
@@ -2200,7 +2200,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/30/13",
+    "thedate":"12/30/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2211,7 +2211,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/30/14",
+    "thedate":"12/30/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -2222,7 +2222,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"12/31/13",
+    "thedate":"12/31/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2233,7 +2233,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/31/14",
+    "thedate":"12/31/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2244,7 +2244,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/4/13",
+    "thedate":"12/04/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2255,7 +2255,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/5/13",
+    "thedate":"12/05/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2266,7 +2266,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/5/14",
+    "thedate":"12/05/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -2277,7 +2277,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"12/6/13",
+    "thedate":"12/06/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2288,7 +2288,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/6/14",
+    "thedate":"12/06/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2299,7 +2299,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/7/13",
+    "thedate":"12/07/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2310,7 +2310,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/7/14",
+    "thedate":"12/07/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2321,7 +2321,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/8/13",
+    "thedate":"12/08/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2332,7 +2332,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/8/14",
+    "thedate":"12/08/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2343,7 +2343,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"12/9/13",
+    "thedate":"12/09/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2354,7 +2354,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"12/9/14",
+    "thedate":"12/09/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"1",
@@ -2365,7 +2365,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"2/1/13",
+    "thedate":"02/01/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2376,7 +2376,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"2/1/14",
+    "thedate":"02/01/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2387,7 +2387,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"2/10/13",
+    "thedate":"02/10/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2398,7 +2398,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/10/14",
+    "thedate":"02/10/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2409,7 +2409,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/11/13",
+    "thedate":"02/11/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2420,7 +2420,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"2/11/14",
+    "thedate":"02/11/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2431,7 +2431,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/12/14",
+    "thedate":"02/12/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -2442,7 +2442,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/13/13",
+    "thedate":"02/2013/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2453,7 +2453,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/13/14",
+    "thedate":"02/2013/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2464,7 +2464,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"2/14/13",
+    "thedate":"02/2014/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -2475,7 +2475,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/14/14",
+    "thedate":"02/2014/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -2486,7 +2486,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"2/15/13",
+    "thedate":"02/15/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2497,7 +2497,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/15/14",
+    "thedate":"02/15/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2508,7 +2508,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/16/14",
+    "thedate":"02/16/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2519,7 +2519,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/17/13",
+    "thedate":"02/17/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2530,7 +2530,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/17/14",
+    "thedate":"02/17/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2541,7 +2541,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"2/19/13",
+    "thedate":"02/19/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2552,7 +2552,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/19/14",
+    "thedate":"02/19/2014",
     "Bronx":"4",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2563,7 +2563,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"2/2/14",
+    "thedate":"02/02/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2574,7 +2574,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/20/13",
+    "thedate":"02/20/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2585,7 +2585,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/21/13",
+    "thedate":"02/21/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2596,7 +2596,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/21/14",
+    "thedate":"02/21/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2607,7 +2607,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"2/23/13",
+    "thedate":"02/23/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -2618,7 +2618,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"2/23/14",
+    "thedate":"02/23/2014",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -2629,7 +2629,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"2/24/13",
+    "thedate":"02/24/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2640,7 +2640,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/24/14",
+    "thedate":"02/24/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -2651,7 +2651,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"2/25/14",
+    "thedate":"02/25/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2662,7 +2662,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/26/13",
+    "thedate":"02/26/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2673,7 +2673,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/26/14",
+    "thedate":"02/26/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2684,7 +2684,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"2/27/13",
+    "thedate":"02/27/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2695,7 +2695,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/27/14",
+    "thedate":"02/27/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2706,7 +2706,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/28/13",
+    "thedate":"02/28/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2717,7 +2717,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/3/14",
+    "thedate":"02/03/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -2728,7 +2728,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/4/13",
+    "thedate":"02/04/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2739,7 +2739,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"2/4/14",
+    "thedate":"02/04/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2750,7 +2750,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/5/13",
+    "thedate":"02/05/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2761,7 +2761,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"2/5/14",
+    "thedate":"02/05/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2772,7 +2772,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"2/6/14",
+    "thedate":"02/06/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2783,7 +2783,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"2/7/13",
+    "thedate":"02/07/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2794,7 +2794,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/8/14",
+    "thedate":"02/08/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2805,7 +2805,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"2/9/13",
+    "thedate":"02/09/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2816,7 +2816,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/1/13",
+    "thedate":"03/01/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2827,7 +2827,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/1/14",
+    "thedate":"03/01/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2838,7 +2838,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/10/13",
+    "thedate":"03/10/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -2849,7 +2849,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/10/14",
+    "thedate":"03/10/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2860,7 +2860,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"3/11/13",
+    "thedate":"03/11/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2871,7 +2871,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/11/14",
+    "thedate":"03/11/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2882,7 +2882,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/12/13",
+    "thedate":"03/12/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2893,7 +2893,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/12/14",
+    "thedate":"03/12/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2904,7 +2904,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/13/13",
+    "thedate":"03/2013/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2915,7 +2915,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/13/14",
+    "thedate":"03/2013/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2926,7 +2926,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/14/13",
+    "thedate":"03/2014/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -2937,7 +2937,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"3/14/14",
+    "thedate":"03/2014/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2948,7 +2948,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/15/13",
+    "thedate":"03/15/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -2959,7 +2959,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"3/15/14",
+    "thedate":"03/15/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -2970,7 +2970,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"3/16/13",
+    "thedate":"03/16/2013",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -2981,7 +2981,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"3/17/13",
+    "thedate":"03/17/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -2992,7 +2992,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/17/14",
+    "thedate":"03/17/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3003,7 +3003,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/18/13",
+    "thedate":"03/18/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3014,7 +3014,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/18/14",
+    "thedate":"03/18/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3025,7 +3025,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/19/13",
+    "thedate":"03/19/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3036,7 +3036,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"3/19/14",
+    "thedate":"03/19/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3047,7 +3047,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"3/2/13",
+    "thedate":"03/02/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3058,7 +3058,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/2/14",
+    "thedate":"03/02/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3069,7 +3069,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/20/13",
+    "thedate":"03/20/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3080,7 +3080,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/20/14",
+    "thedate":"03/20/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -3091,7 +3091,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"3/21/13",
+    "thedate":"03/21/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3102,7 +3102,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/21/14",
+    "thedate":"03/21/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3113,7 +3113,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/22/13",
+    "thedate":"03/22/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3124,7 +3124,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/23/13",
+    "thedate":"03/23/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3135,7 +3135,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/23/14",
+    "thedate":"03/23/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3146,7 +3146,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/24/14",
+    "thedate":"03/24/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3157,7 +3157,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/25/14",
+    "thedate":"03/25/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3168,7 +3168,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/26/13",
+    "thedate":"03/26/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3179,7 +3179,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/26/14",
+    "thedate":"03/26/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3190,7 +3190,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/27/13",
+    "thedate":"03/27/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3201,7 +3201,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"3/27/14",
+    "thedate":"03/27/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3212,7 +3212,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/28/13",
+    "thedate":"03/28/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3223,7 +3223,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/28/14",
+    "thedate":"03/28/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -3234,7 +3234,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"3/29/13",
+    "thedate":"03/29/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3245,7 +3245,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"3/29/14",
+    "thedate":"03/29/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3256,7 +3256,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/3/13",
+    "thedate":"03/03/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3267,7 +3267,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/30/13",
+    "thedate":"03/30/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3278,7 +3278,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/30/14",
+    "thedate":"03/30/2014",
     "Bronx":"",
     "Brooklyn":"3",
     "Citywide":"",
@@ -3289,7 +3289,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"3/31/14",
+    "thedate":"03/31/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3300,7 +3300,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/4/13",
+    "thedate":"03/04/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3311,7 +3311,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/5/13",
+    "thedate":"03/05/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3322,7 +3322,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/6/13",
+    "thedate":"03/06/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3333,7 +3333,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/6/14",
+    "thedate":"03/06/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3344,7 +3344,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"3/7/13",
+    "thedate":"03/07/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3355,7 +3355,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"3/7/14",
+    "thedate":"03/07/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3366,7 +3366,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"3/9/13",
+    "thedate":"03/09/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3377,7 +3377,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"3/9/14",
+    "thedate":"03/09/2014",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -3388,7 +3388,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/1/13",
+    "thedate":"04/01/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3399,7 +3399,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/1/14",
+    "thedate":"04/01/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3410,7 +3410,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/10/14",
+    "thedate":"04/10/2014",
     "Bronx":"1",
     "Brooklyn":"3",
     "Citywide":"",
@@ -3421,7 +3421,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"4/11/13",
+    "thedate":"04/11/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3432,7 +3432,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/11/14",
+    "thedate":"04/11/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3443,7 +3443,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/12/13",
+    "thedate":"04/12/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3454,7 +3454,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/12/14",
+    "thedate":"04/12/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"1",
@@ -3465,7 +3465,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/13/13",
+    "thedate":"04/2013/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3476,7 +3476,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/13/14",
+    "thedate":"04/2013/2014",
     "Bronx":"1",
     "Brooklyn":"3",
     "Citywide":"",
@@ -3487,7 +3487,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"4/14/13",
+    "thedate":"04/2014/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3498,7 +3498,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/14/14",
+    "thedate":"04/2014/2014",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -3509,7 +3509,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"4/15/13",
+    "thedate":"04/15/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3520,7 +3520,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/15/14",
+    "thedate":"04/15/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3531,7 +3531,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/16/13",
+    "thedate":"04/16/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3542,7 +3542,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"4/16/14",
+    "thedate":"04/16/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3553,7 +3553,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/17/13",
+    "thedate":"04/17/2013",
     "Bronx":"1",
     "Brooklyn":"4",
     "Citywide":"",
@@ -3564,7 +3564,7 @@
     "Grand Total":"8"
   },
   {
-    "Date":"4/17/14",
+    "thedate":"04/17/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3575,7 +3575,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/18/13",
+    "thedate":"04/18/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3586,7 +3586,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/18/14",
+    "thedate":"04/18/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3597,7 +3597,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/19/13",
+    "thedate":"04/19/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3608,7 +3608,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/19/14",
+    "thedate":"04/19/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3619,7 +3619,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/2/13",
+    "thedate":"04/02/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3630,7 +3630,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/2/14",
+    "thedate":"04/02/2014",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -3641,7 +3641,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"4/20/13",
+    "thedate":"04/20/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3652,7 +3652,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/21/13",
+    "thedate":"04/21/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3663,7 +3663,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/21/14",
+    "thedate":"04/21/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -3674,7 +3674,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/22/13",
+    "thedate":"04/22/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -3685,7 +3685,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"4/23/13",
+    "thedate":"04/23/2013",
     "Bronx":"",
     "Brooklyn":"3",
     "Citywide":"",
@@ -3696,7 +3696,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/23/14",
+    "thedate":"04/23/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3707,7 +3707,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/24/14",
+    "thedate":"04/24/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3718,7 +3718,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/25/13",
+    "thedate":"04/25/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3729,7 +3729,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/25/14",
+    "thedate":"04/25/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3740,7 +3740,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/27/14",
+    "thedate":"04/27/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3751,7 +3751,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/28/13",
+    "thedate":"04/28/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3762,7 +3762,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/28/14",
+    "thedate":"04/28/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"1",
@@ -3773,7 +3773,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/29/13",
+    "thedate":"04/29/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3784,7 +3784,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/29/14",
+    "thedate":"04/29/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3795,7 +3795,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/3/13",
+    "thedate":"04/03/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3806,7 +3806,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/3/14",
+    "thedate":"04/03/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3817,7 +3817,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/30/13",
+    "thedate":"04/30/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -3828,7 +3828,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/30/14",
+    "thedate":"04/30/2014",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -3839,7 +3839,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"4/4/13",
+    "thedate":"04/04/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3850,7 +3850,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/4/14",
+    "thedate":"04/04/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3861,7 +3861,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"4/5/13",
+    "thedate":"04/05/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3872,7 +3872,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/5/14",
+    "thedate":"04/05/2014",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -3883,7 +3883,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/6/13",
+    "thedate":"04/06/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3894,7 +3894,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/6/14",
+    "thedate":"04/06/2014",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -3905,7 +3905,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"4/7/13",
+    "thedate":"04/07/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3916,7 +3916,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"4/7/14",
+    "thedate":"04/07/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -3927,7 +3927,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/8/13",
+    "thedate":"04/08/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3938,7 +3938,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"4/8/14",
+    "thedate":"04/08/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3949,7 +3949,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/1/13",
+    "thedate":"05/01/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3960,7 +3960,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/1/14",
+    "thedate":"05/01/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3971,7 +3971,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"5/10/13",
+    "thedate":"05/10/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -3982,7 +3982,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"5/11/13",
+    "thedate":"05/11/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -3993,7 +3993,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/12/13",
+    "thedate":"05/12/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4004,7 +4004,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/12/14",
+    "thedate":"05/12/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -4015,7 +4015,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/13/13",
+    "thedate":"05/2013/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4026,7 +4026,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/13/14",
+    "thedate":"05/2013/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4037,7 +4037,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/14/14",
+    "thedate":"05/2014/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -4048,7 +4048,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"5/15/13",
+    "thedate":"05/15/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4059,7 +4059,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/15/14",
+    "thedate":"05/15/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4070,7 +4070,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"5/16/13",
+    "thedate":"05/16/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4081,7 +4081,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/16/14",
+    "thedate":"05/16/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4092,7 +4092,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/17/13",
+    "thedate":"05/17/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4103,7 +4103,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/17/14",
+    "thedate":"05/17/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4114,7 +4114,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/18/13",
+    "thedate":"05/18/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4125,7 +4125,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/18/14",
+    "thedate":"05/18/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4136,7 +4136,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/19/13",
+    "thedate":"05/19/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4147,7 +4147,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/19/14",
+    "thedate":"05/19/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4158,7 +4158,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/2/13",
+    "thedate":"05/02/2013",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -4169,7 +4169,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"5/2/14",
+    "thedate":"05/02/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4180,7 +4180,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/20/13",
+    "thedate":"05/20/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4191,7 +4191,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/20/14",
+    "thedate":"05/20/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4202,7 +4202,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/21/13",
+    "thedate":"05/21/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -4213,7 +4213,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"5/21/14",
+    "thedate":"05/21/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -4224,7 +4224,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/22/13",
+    "thedate":"05/22/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4235,7 +4235,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/22/14",
+    "thedate":"05/22/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4246,7 +4246,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/23/13",
+    "thedate":"05/23/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4257,7 +4257,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/23/14",
+    "thedate":"05/23/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4268,7 +4268,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/24/13",
+    "thedate":"05/24/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4279,7 +4279,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/24/14",
+    "thedate":"05/24/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4290,7 +4290,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/25/14",
+    "thedate":"05/25/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4301,7 +4301,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/26/13",
+    "thedate":"05/26/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4312,7 +4312,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/26/14",
+    "thedate":"05/26/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -4323,7 +4323,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/27/13",
+    "thedate":"05/27/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4334,7 +4334,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/27/14",
+    "thedate":"05/27/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4345,7 +4345,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"5/28/14",
+    "thedate":"05/28/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4356,7 +4356,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"5/29/13",
+    "thedate":"05/29/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4367,7 +4367,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"5/29/14",
+    "thedate":"05/29/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4378,7 +4378,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/3/13",
+    "thedate":"05/03/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -4389,7 +4389,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/3/14",
+    "thedate":"05/03/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4400,7 +4400,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/30/13",
+    "thedate":"05/30/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -4411,7 +4411,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"5/30/14",
+    "thedate":"05/30/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4422,7 +4422,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/31/13",
+    "thedate":"05/31/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4433,7 +4433,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/31/14",
+    "thedate":"05/31/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -4444,7 +4444,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/4/13",
+    "thedate":"05/04/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4455,7 +4455,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/4/14",
+    "thedate":"05/04/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4466,7 +4466,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/5/13",
+    "thedate":"05/05/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4477,7 +4477,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/5/14",
+    "thedate":"05/05/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4488,7 +4488,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"5/6/13",
+    "thedate":"05/06/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4499,7 +4499,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"5/7/13",
+    "thedate":"05/07/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4510,7 +4510,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/7/14",
+    "thedate":"05/07/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4521,7 +4521,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"5/8/13",
+    "thedate":"05/08/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4532,7 +4532,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/8/14",
+    "thedate":"05/08/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4543,7 +4543,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"5/9/13",
+    "thedate":"05/09/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4554,7 +4554,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"5/9/14",
+    "thedate":"05/09/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4565,7 +4565,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/1/14",
+    "thedate":"06/01/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4576,7 +4576,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/10/13",
+    "thedate":"06/10/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -4587,7 +4587,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/10/14",
+    "thedate":"06/10/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4598,7 +4598,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/11/13",
+    "thedate":"06/11/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4609,7 +4609,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"6/11/14",
+    "thedate":"06/11/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4620,7 +4620,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/12/13",
+    "thedate":"06/12/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4631,7 +4631,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"6/12/14",
+    "thedate":"06/12/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4642,7 +4642,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/13/14",
+    "thedate":"06/2013/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4653,7 +4653,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/14/13",
+    "thedate":"06/2014/2013",
     "Bronx":"2",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4664,7 +4664,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"6/15/13",
+    "thedate":"06/15/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4675,7 +4675,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/16/13",
+    "thedate":"06/16/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4686,7 +4686,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/16/14",
+    "thedate":"06/16/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -4697,7 +4697,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"6/17/13",
+    "thedate":"06/17/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4708,7 +4708,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/17/14",
+    "thedate":"06/17/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4719,7 +4719,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"6/18/13",
+    "thedate":"06/18/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4730,7 +4730,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/18/14",
+    "thedate":"06/18/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4741,7 +4741,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"6/19/13",
+    "thedate":"06/19/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4752,7 +4752,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/19/14",
+    "thedate":"06/19/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4763,7 +4763,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"6/2/13",
+    "thedate":"06/02/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4774,7 +4774,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/2/14",
+    "thedate":"06/02/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4785,7 +4785,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/20/13",
+    "thedate":"06/20/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4796,7 +4796,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/20/14",
+    "thedate":"06/20/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4807,7 +4807,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"6/21/13",
+    "thedate":"06/21/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4818,7 +4818,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/21/14",
+    "thedate":"06/21/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4829,7 +4829,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/22/13",
+    "thedate":"06/22/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4840,7 +4840,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/22/14",
+    "thedate":"06/22/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4851,7 +4851,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/23/13",
+    "thedate":"06/23/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4862,7 +4862,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/23/14",
+    "thedate":"06/23/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4873,7 +4873,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/24/13",
+    "thedate":"06/24/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -4884,7 +4884,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"6/24/14",
+    "thedate":"06/24/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4895,7 +4895,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"6/25/13",
+    "thedate":"06/25/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4906,7 +4906,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"6/25/14",
+    "thedate":"06/25/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4917,7 +4917,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"6/26/13",
+    "thedate":"06/26/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -4928,7 +4928,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"6/26/14",
+    "thedate":"06/26/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4939,7 +4939,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/27/13",
+    "thedate":"06/27/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4950,7 +4950,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/28/14",
+    "thedate":"06/28/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4961,7 +4961,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/29/13",
+    "thedate":"06/29/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4972,7 +4972,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/3/13",
+    "thedate":"06/03/2013",
     "Bronx":"2",
     "Brooklyn":"1",
     "Citywide":"",
@@ -4983,7 +4983,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"6/3/14",
+    "thedate":"06/03/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -4994,7 +4994,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/30/13",
+    "thedate":"06/30/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5005,7 +5005,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"6/30/14",
+    "thedate":"06/30/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5016,7 +5016,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/4/13",
+    "thedate":"06/04/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5027,7 +5027,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/4/14",
+    "thedate":"06/04/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5038,7 +5038,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/5/13",
+    "thedate":"06/05/2013",
     "Bronx":"2",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5049,7 +5049,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"6/5/14",
+    "thedate":"06/05/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5060,7 +5060,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"6/6/13",
+    "thedate":"06/06/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5071,7 +5071,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/6/14",
+    "thedate":"06/06/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -5082,7 +5082,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"6/7/13",
+    "thedate":"06/07/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5093,7 +5093,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/8/13",
+    "thedate":"06/08/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5104,7 +5104,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"6/8/14",
+    "thedate":"06/08/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5115,7 +5115,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"6/9/14",
+    "thedate":"06/09/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5126,7 +5126,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"7/1/13",
+    "thedate":"07/01/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5137,7 +5137,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/1/14",
+    "thedate":"07/01/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -5148,7 +5148,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"7/10/13",
+    "thedate":"07/10/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5159,7 +5159,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/10/14",
+    "thedate":"07/10/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5170,7 +5170,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/11/13",
+    "thedate":"07/11/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5181,7 +5181,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"7/11/14",
+    "thedate":"07/11/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5192,7 +5192,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/12/13",
+    "thedate":"07/12/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5203,7 +5203,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/12/14",
+    "thedate":"07/12/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5214,7 +5214,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/13/13",
+    "thedate":"07/2013/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5225,7 +5225,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/14/13",
+    "thedate":"07/2014/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5236,7 +5236,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/14/14",
+    "thedate":"07/2014/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5247,7 +5247,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"7/15/13",
+    "thedate":"07/15/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5258,7 +5258,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"7/15/14",
+    "thedate":"07/15/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5269,7 +5269,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"7/16/13",
+    "thedate":"07/16/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5280,7 +5280,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/16/14",
+    "thedate":"07/16/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5291,7 +5291,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/17/13",
+    "thedate":"07/17/2013",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -5302,7 +5302,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"7/17/14",
+    "thedate":"07/17/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5313,7 +5313,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/18/13",
+    "thedate":"07/18/2013",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -5324,7 +5324,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"7/18/14",
+    "thedate":"07/18/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5335,7 +5335,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/19/13",
+    "thedate":"07/19/2013",
     "Bronx":"2",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5346,7 +5346,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"7/19/14",
+    "thedate":"07/19/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5357,7 +5357,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"7/2/13",
+    "thedate":"07/02/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -5368,7 +5368,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"7/2/14",
+    "thedate":"07/02/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5379,7 +5379,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/20/13",
+    "thedate":"07/20/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -5390,7 +5390,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/22/13",
+    "thedate":"07/22/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5401,7 +5401,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"7/22/14",
+    "thedate":"07/22/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5412,7 +5412,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/23/13",
+    "thedate":"07/23/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5423,7 +5423,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/23/14",
+    "thedate":"07/23/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5434,7 +5434,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/24/13",
+    "thedate":"07/24/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -5445,7 +5445,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/24/14",
+    "thedate":"07/24/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5456,7 +5456,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"7/25/14",
+    "thedate":"07/25/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5467,7 +5467,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/26/13",
+    "thedate":"07/26/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5478,7 +5478,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/26/14",
+    "thedate":"07/26/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5489,7 +5489,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/28/13",
+    "thedate":"07/28/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5500,7 +5500,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/28/14",
+    "thedate":"07/28/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -5511,7 +5511,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/29/13",
+    "thedate":"07/29/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5522,7 +5522,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/29/14",
+    "thedate":"07/29/2014",
     "Bronx":"2",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5533,7 +5533,7 @@
     "Grand Total":"9"
   },
   {
-    "Date":"7/3/13",
+    "thedate":"07/03/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -5544,7 +5544,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/3/14",
+    "thedate":"07/03/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5555,7 +5555,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"7/30/13",
+    "thedate":"07/30/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5566,7 +5566,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"7/30/14",
+    "thedate":"07/30/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5577,7 +5577,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"7/31/13",
+    "thedate":"07/31/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5588,7 +5588,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/31/14",
+    "thedate":"07/31/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5599,7 +5599,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"7/4/13",
+    "thedate":"07/04/2013",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -5610,7 +5610,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"7/4/14",
+    "thedate":"07/04/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5621,7 +5621,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/5/13",
+    "thedate":"07/05/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -5632,7 +5632,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"7/5/14",
+    "thedate":"07/05/2014",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -5643,7 +5643,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"7/6/13",
+    "thedate":"07/06/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5654,7 +5654,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"7/6/14",
+    "thedate":"07/06/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5665,7 +5665,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"7/7/14",
+    "thedate":"07/07/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5676,7 +5676,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"7/8/14",
+    "thedate":"07/08/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5687,7 +5687,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"7/9/13",
+    "thedate":"07/09/2013",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -5698,7 +5698,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"7/9/14",
+    "thedate":"07/09/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5709,7 +5709,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/1/13",
+    "thedate":"08/01/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5720,7 +5720,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/1/14",
+    "thedate":"08/01/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5731,7 +5731,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"8/11/14",
+    "thedate":"08/11/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5742,7 +5742,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/12/13",
+    "thedate":"08/12/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5753,7 +5753,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/12/14",
+    "thedate":"08/12/2014",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -5764,7 +5764,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/13/14",
+    "thedate":"08/2013/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5775,7 +5775,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"8/14/13",
+    "thedate":"08/2014/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5786,7 +5786,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"8/14/14",
+    "thedate":"08/2014/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5797,7 +5797,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/15/13",
+    "thedate":"08/15/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5808,7 +5808,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/15/14",
+    "thedate":"08/15/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5819,7 +5819,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/16/13",
+    "thedate":"08/16/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -5830,7 +5830,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/16/14",
+    "thedate":"08/16/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5841,7 +5841,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/17/13",
+    "thedate":"08/17/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5852,7 +5852,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/18/13",
+    "thedate":"08/18/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5863,7 +5863,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/18/14",
+    "thedate":"08/18/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5874,7 +5874,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"8/19/13",
+    "thedate":"08/19/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5885,7 +5885,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"8/2/13",
+    "thedate":"08/02/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5896,7 +5896,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/20/13",
+    "thedate":"08/20/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -5907,7 +5907,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"8/20/14",
+    "thedate":"08/20/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5918,7 +5918,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/21/13",
+    "thedate":"08/21/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5929,7 +5929,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/21/14",
+    "thedate":"08/21/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5940,7 +5940,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"8/22/13",
+    "thedate":"08/22/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5951,7 +5951,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/23/13",
+    "thedate":"08/23/2013",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5962,7 +5962,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"8/23/14",
+    "thedate":"08/23/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -5973,7 +5973,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/24/13",
+    "thedate":"08/24/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5984,7 +5984,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/24/14",
+    "thedate":"08/24/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -5995,7 +5995,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/25/13",
+    "thedate":"08/25/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6006,7 +6006,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/25/14",
+    "thedate":"08/25/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6017,7 +6017,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"8/26/13",
+    "thedate":"08/26/2013",
     "Bronx":"1",
     "Brooklyn":"2",
     "Citywide":"",
@@ -6028,7 +6028,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"8/26/14",
+    "thedate":"08/26/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6039,7 +6039,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/27/13",
+    "thedate":"08/27/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6050,7 +6050,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"8/27/14",
+    "thedate":"08/27/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -6061,7 +6061,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/28/13",
+    "thedate":"08/28/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6072,7 +6072,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"8/28/14",
+    "thedate":"08/28/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6083,7 +6083,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/29/13",
+    "thedate":"08/29/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6094,7 +6094,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"8/29/14",
+    "thedate":"08/29/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6105,7 +6105,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/3/14",
+    "thedate":"08/03/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6116,7 +6116,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/30/13",
+    "thedate":"08/30/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6127,7 +6127,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"8/30/14",
+    "thedate":"08/30/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6138,7 +6138,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/31/14",
+    "thedate":"08/31/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -6149,7 +6149,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"8/4/14",
+    "thedate":"08/04/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6160,7 +6160,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/5/13",
+    "thedate":"08/05/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -6171,7 +6171,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/5/14",
+    "thedate":"08/05/2014",
     "Bronx":"2",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6182,7 +6182,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"8/6/13",
+    "thedate":"08/06/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6193,7 +6193,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/6/14",
+    "thedate":"08/06/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6204,7 +6204,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"8/7/14",
+    "thedate":"08/07/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6215,7 +6215,7 @@
     "Grand Total":"6"
   },
   {
-    "Date":"8/8/13",
+    "thedate":"08/08/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6226,7 +6226,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/8/14",
+    "thedate":"08/08/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6237,7 +6237,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"8/9/13",
+    "thedate":"08/09/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6248,7 +6248,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"8/9/14",
+    "thedate":"08/09/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6259,7 +6259,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/1/14",
+    "thedate":"09/01/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6270,7 +6270,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/10/13",
+    "thedate":"09/10/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6281,7 +6281,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/10/14",
+    "thedate":"09/10/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -6292,7 +6292,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/11/13",
+    "thedate":"09/11/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -6303,7 +6303,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"9/11/14",
+    "thedate":"09/11/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6314,7 +6314,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/12/13",
+    "thedate":"09/12/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6325,7 +6325,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"9/12/14",
+    "thedate":"09/12/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -6336,7 +6336,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"9/14/13",
+    "thedate":"09/2014/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6347,7 +6347,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"9/14/14",
+    "thedate":"09/2014/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -6358,7 +6358,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/15/14",
+    "thedate":"09/15/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6369,7 +6369,7 @@
     "Grand Total":"5"
   },
   {
-    "Date":"9/16/13",
+    "thedate":"09/16/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6380,7 +6380,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"9/16/14",
+    "thedate":"09/16/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6391,7 +6391,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/17/13",
+    "thedate":"09/17/2013",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -6402,7 +6402,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"9/17/14",
+    "thedate":"09/17/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6413,7 +6413,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/18/13",
+    "thedate":"09/18/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6424,7 +6424,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/18/14",
+    "thedate":"09/18/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6435,7 +6435,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/19/13",
+    "thedate":"09/19/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6446,7 +6446,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/19/14",
+    "thedate":"09/19/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6457,7 +6457,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/2/13",
+    "thedate":"09/02/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6468,7 +6468,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/2/14",
+    "thedate":"09/02/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6479,7 +6479,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/20/13",
+    "thedate":"09/20/2013",
     "Bronx":"2",
     "Brooklyn":"",
     "Citywide":"",
@@ -6490,7 +6490,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"9/20/14",
+    "thedate":"09/20/2014",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6501,7 +6501,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"9/21/13",
+    "thedate":"09/21/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6512,7 +6512,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/21/14",
+    "thedate":"09/21/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6523,7 +6523,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/23/13",
+    "thedate":"09/23/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6534,7 +6534,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/24/13",
+    "thedate":"09/24/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6545,7 +6545,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"9/24/14",
+    "thedate":"09/24/2014",
     "Bronx":"1",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6556,7 +6556,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/25/13",
+    "thedate":"09/25/2013",
     "Bronx":"",
     "Brooklyn":"2",
     "Citywide":"",
@@ -6567,7 +6567,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"9/25/14",
+    "thedate":"09/25/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6578,7 +6578,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"9/26/13",
+    "thedate":"09/26/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6589,7 +6589,7 @@
     "Grand Total":"4"
   },
   {
-    "Date":"9/26/14",
+    "thedate":"09/26/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6600,7 +6600,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/27/13",
+    "thedate":"09/27/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6611,7 +6611,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/27/14",
+    "thedate":"09/27/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6622,7 +6622,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/29/13",
+    "thedate":"09/29/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6633,7 +6633,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/29/14",
+    "thedate":"09/29/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6644,7 +6644,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"9/3/13",
+    "thedate":"09/03/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6655,7 +6655,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/30/13",
+    "thedate":"09/30/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6666,7 +6666,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/30/14",
+    "thedate":"09/30/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -6677,7 +6677,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/4/13",
+    "thedate":"09/04/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6688,7 +6688,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/5/13",
+    "thedate":"09/05/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6699,7 +6699,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"9/6/13",
+    "thedate":"09/06/2013",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6710,7 +6710,7 @@
     "Grand Total":"2"
   },
   {
-    "Date":"9/6/14",
+    "thedate":"09/06/2014",
     "Bronx":"1",
     "Brooklyn":"",
     "Citywide":"",
@@ -6721,7 +6721,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/7/13",
+    "thedate":"09/07/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6732,7 +6732,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/8/13",
+    "thedate":"09/08/2013",
     "Bronx":"",
     "Brooklyn":"1",
     "Citywide":"",
@@ -6743,7 +6743,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"9/8/14",
+    "thedate":"09/08/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6754,7 +6754,7 @@
     "Grand Total":"3"
   },
   {
-    "Date":"9/9/13",
+    "thedate":"09/09/2013",
     "Bronx":"2",
     "Brooklyn":"2",
     "Citywide":"",
@@ -6765,7 +6765,7 @@
     "Grand Total":"7"
   },
   {
-    "Date":"9/9/14",
+    "thedate":"09/09/2014",
     "Bronx":"",
     "Brooklyn":"",
     "Citywide":"",
@@ -6776,7 +6776,7 @@
     "Grand Total":"1"
   },
   {
-    "Date":"Date",
+    "thedate":"thedate",
     "Bronx":"Bronx",
     "Brooklyn":"Brooklyn",
     "Citywide":"Citywide",
@@ -6787,7 +6787,7 @@
     "Grand Total":"Grand Total"
   },
   {
-    "Date":"Grand Total",
+    "thedate":"Grand Total",
     "Bronx":"174",
     "Brooklyn":"326",
     "Citywide":"7",

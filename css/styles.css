@@ -3,3 +3,87 @@
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+.borough {
+	display: inline-block;
+	padding-left: 9.5%;
+	padding-right: 9.5%;
+	text-align: center;
+	height: 150px;
+	padding-top: 8px;
+}
+
+.main {
+	text-align: center;
+}
+
+h1{
+	font-family: "Roboto";
+	font-size: 45px;
+	color: #727173;
+	font-weight: 100;
+	position: absolute;
+	width: 300px;
+	margin-left: 20px;
+	margin-top: -3px;
+	line-height: 60px;
+	}
+
+#datepicker{
+	margin-top: 2%;
+	margin-left: 40%;
+}
+
+#dp{
+	height: 250px;
+}
+
+.main{
+	height: 220px;
+}
+
+.box p{
+color: #090029;
+font-size: 85px;
+font-family: "Roboto";
+font-weight: 100;
+margin-top: -10px;
+text-transform: 100;
+}
+
+#total p{
+	font-size: 150px;
+	font-family: "Roboto";
+	font-weight: 100;
+	color: #FF8C00;
+	margin-top: -15px;
+}
+
+h2{
+	font-weight: 200;
+	font-family: "Roboto";
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+.circle{
+	background-color: #FFEF2E;
+	opacity: .7;
+	height: 180px;
+	width: 180px;
+	border-radius: 50%;
+	position: absolute;
+	margin-left: -4.5%;
+}
+
+.main h2{
+	font-weight: 300;
+	font-size: 25px;
+}
+
+#tooltip {
+	display : none;
+	background-color: cyan;
+	height: 100px;
+	width: 100px;
+}
